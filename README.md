@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dag-Developer
 - 👀 I’m interested in Programming | Web-Development !
 - 🌱 I’m currently learning  -Django-
-- 💞️ I’m looking to collaborate on a Simple project just B/c it will be my first time.
+- 💞️ I’m looking to collaborate on a Simple project just B/c it will be my first time to collab.
 - 📫 How to reach me thisisdagim@gmail.com
 
 <!---
